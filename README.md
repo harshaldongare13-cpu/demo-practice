@@ -1,2 +1,2 @@
 # demo-practice
-this is demo activity
+this is demo activity.
